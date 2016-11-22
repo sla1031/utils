@@ -1131,3 +1131,514 @@
 .fs-36 {
 	font-size: 36px;
 }
+
+/* Borders */
+.bsize-1{
+	border-width: 1px;
+}
+.bsize-2{
+	border-width: 2px;
+}
+.bsize-3{
+	border-width: 3px;
+}
+.bsize-4{
+	border-width: 4px;
+}
+.bsize-5{
+	border-width: 5px;
+}
+.bsize-10{
+	border-width: 10px;
+}
+.bsize-15{
+	border-width: 15px;
+}
+.bsize-20{
+	border-width: 20px;
+}
+
+.bstyle-none{
+	border-style: none;
+}
+.bstyle-hidden{
+	border-style: hidden;
+}
+.bstyle-dotted{
+	border-style: dotted;
+}
+.bstyle-dashed{
+	border-style: dashed;
+}
+.bstyle-solid{
+	border-style: solid;
+}
+.bstyle-double{
+	border-style: double;
+}
+.bstyle-groove{
+	border-style: groove;
+}
+.bstyle-ridge{
+	border-style: ridge;
+}
+.bstyle-inset{
+	border-style: inset;
+}
+.bstyle-outset{
+	border-style: outset;
+}
+.bcolor-aliceblue {
+	border-color: aliceblue;
+}
+.bcolor-antiquewhite {
+	border-color: antiquewhite;
+}
+.bcolor-aqua {
+	border-color: aqua;
+}
+.bcolor-aquamarine {
+	border-color: aquamarine;
+}
+.bcolor-azure {
+	border-color: azure;
+}
+.bcolor-beige {
+	border-color: beige;
+}
+.bcolor-bisque {
+	border-color: bisque;
+}
+.bcolor-black {
+	border-color: black;
+}
+.bcolor-blanchedalmond {
+	border-color: blanchedalmond;
+}
+.bcolor-blue {
+	border-color: blue;
+}
+.bcolor-blueviolet {
+	border-color: blueviolet;
+}
+.bcolor-brown {
+	border-color: brown;
+}
+.bcolor-burlywood {
+	border-color: burlywood;
+}
+.bcolor-cadetblue {
+	border-color: cadetblue;
+}
+.bcolor-chartreuse {
+	border-color: chartreuse;
+}
+.bcolor-chocolate {
+	border-color: chocolate;
+}
+.bcolor-coral {
+	border-color: coral;
+}
+.bcolor-cornflowerblue {
+	border-color: cornflowerblue;
+}
+.bcolor-cornsilk {
+	border-color: cornsilk;
+}
+.bcolor-crimson {
+	border-color: crimson;
+}
+.bcolor-cyan {
+	border-color: cyan;
+}
+.bcolor-darkblue {
+	border-color: darkblue;
+}
+.bcolor-darkcyan {
+	border-color: darkcyan;
+}
+.bcolor-darkgoldenrod {
+	border-color: darkgoldenrod;
+}
+.bcolor-darkgray {
+	border-color: darkgray;
+}
+.bcolor-darkgrey {
+	border-color: darkgrey;
+}
+.bcolor-darkgreen {
+	border-color: darkgreen;
+}
+.bcolor-darkkhaki {
+	border-color: darkkhaki;
+}
+.bcolor-darkmagenta {
+	border-color: darkmagenta;
+}
+.bcolor-darkolivegreen {
+	border-color: darkolivegreen;
+}
+.bcolor-darkorange {
+	border-color: darkorange;
+}
+.bcolor-darkorchid {
+	border-color: darkorchid;
+}
+.bcolor-darkred {
+	border-color: darkred;
+}
+.bcolor-darksalmon {
+	border-color: darksalmon;
+}
+.bcolor-darkseagreen {
+	border-color: darkseagreen;
+}
+.bcolor-darkslateblue {
+	border-color: darkslateblue;
+}
+.bcolor-darkslategray {
+	border-color: darkslategray;
+}
+.bcolor-darkslategrey {
+	border-color: darkslategrey;
+}
+.bcolor-darkturquoise {
+	border-color: darkturquoise;
+}
+.bcolor-darkviolet {
+	border-color: darkviolet;
+}
+.bcolor-deeppink {
+	border-color: deeppink;
+}
+.bcolor-deepskyblue {
+	border-color: deepskyblue;
+}
+.bcolor-dimgray {
+	border-color: dimgray;
+}
+.bcolor-dimgrey {
+	border-color: dimgrey;
+}
+.bcolor-dodgerblue {
+	border-color: dodgerblue;
+}
+.bcolor-firebrick {
+	border-color: firebrick;
+}
+.bcolor-floralwhite {
+	border-color: floralwhite;
+}
+.bcolor-forestgreen {
+	border-color: forestgreen;
+}
+.bcolor-fuchsia {
+	border-color: fuchsia;
+}
+.bcolor-gainsboro {
+	border-color: gainsboro;
+}
+.bcolor-ghostwhite {
+	border-color: ghostwhite;
+}
+.bcolor-gold {
+	border-color: gold;
+}
+.bcolor-goldenrod {
+	border-color: goldenrod;
+}
+.bcolor-gray {
+	border-color: gray;
+}
+.bcolor-grey {
+	border-color: grey;
+}
+.bcolor-green {
+	border-color: green;
+}
+.bcolor-greenyellow {
+	border-color: greenyellow;
+}
+.bcolor-honeydew {
+	border-color: honeydew;
+}
+.bcolor-hotpink {
+	border-color: hotpink;
+}
+.bcolor-indianred {
+	border-color: indianred;
+}
+.bcolor-indigo {
+	border-color: indigo;
+}
+.bcolor-ivory {
+	border-color: ivory;
+}
+.bcolor-khaki {
+	border-color: khaki;
+}
+.bcolor-lavender {
+	border-color: lavender;
+}
+.bcolor-lavenderblush {
+	border-color: lavenderblush;
+}
+.bcolor-lawngreen {
+	border-color: lawngreen;
+}
+.bcolor-lemonchiffon {
+	border-color: lemonchiffon;
+}
+.bcolor-lightblue {
+	border-color: lightblue;
+}
+.bcolor-lightcoral {
+	border-color: lightcoral;
+}
+.bcolor-lightcyan {
+	border-color: lightcyan;
+}
+.bcolor-lightgoldenrodyellow {
+	border-color: lightgoldenrodyellow;
+}
+.bcolor-lightgray {
+	border-color: lightgray;
+}
+.bcolor-lightgrey {
+	border-color: lightgrey;
+}
+.bcolor-lightgreen {
+	border-color: lightgreen;
+}
+.bcolor-lightpink {
+	border-color: lightpink;
+}
+.bcolor-lightsalmon {
+	border-color: lightsalmon;
+}
+.bcolor-lightseagreen {
+	border-color: lightseagreen;
+}
+.bcolor-lightskyblue {
+	border-color: lightskyblue;
+}
+.bcolor-lightslategray {
+	border-color: lightslategray;
+}
+.bcolor-lightslategrey {
+	border-color: lightslategrey;
+}
+.bcolor-lightsteelblue {
+	border-color: lightsteelblue;
+}
+.bcolor-lightyellow {
+	border-color: lightyellow;
+}
+.bcolor-lime {
+	border-color: lime;
+}
+.bcolor-limegreen {
+	border-color: limegreen;
+}
+.bcolor-linen {
+	border-color: linen;
+}
+.bcolor-magenta {
+	border-color: magenta;
+}
+.bcolor-maroon {
+	border-color: maroon;
+}
+.bcolor-mediumaquamarine {
+	border-color: mediumaquamarine;
+}
+.bcolor-mediumblue {
+	border-color: mediumblue;
+}
+.bcolor-mediumorchid {
+	border-color: mediumorchid;
+}
+.bcolor-mediumpurple {
+	border-color: mediumpurple;
+}
+.bcolor-mediumseagreen {
+	border-color: mediumseagreen;
+}
+.bcolor-mediumslateblue {
+	border-color: mediumslateblue;
+}
+.bcolor-mediumspringgreen {
+	border-color: mediumspringgreen;
+}
+.bcolor-mediumturquoise {
+	border-color: mediumturquoise;
+}
+.bcolor-mediumvioletred {
+	border-color: mediumvioletred;
+}
+.bcolor-midnightblue {
+	border-color: midnightblue;
+}
+.bcolor-mintcream {
+	border-color: mintcream;
+}
+.bcolor-mistyrose {
+	border-color: mistyrose;
+}
+.bcolor-moccasin {
+	border-color: moccasin;
+}
+.bcolor-navajowhite {
+	border-color: navajowhite;
+}
+.bcolor-navy {
+	border-color: navy;
+}
+.bcolor-oldlace {
+	border-color: oldlace;
+}
+.bcolor-olive {
+	border-color: olive;
+}
+.bcolor-olivedrab {
+	border-color: olivedrab;
+}
+.bcolor-orange {
+	border-color: orange;
+}
+.bcolor-orangered {
+	border-color: orangered;
+}
+.bcolor-orchid {
+	border-color: orchid;
+}
+.bcolor-palegoldenrod {
+	border-color: palegoldenrod;
+}
+.bcolor-palegreen {
+	border-color: palegreen;
+}
+.bcolor-paleturquoise {
+	border-color: paleturquoise;
+}
+.bcolor-palevioletred {
+	border-color: palevioletred;
+}
+.bcolor-papayawhip {
+	border-color: papayawhip;
+}
+.bcolor-peachpuff {
+	border-color: peachpuff;
+}
+.bcolor-peru {
+	border-color: peru;
+}
+.bcolor-pink {
+	border-color: pink;
+}
+.bcolor-plum {
+	border-color: plum;
+}
+.bcolor-powderblue {
+	border-color: powderblue;
+}
+.bcolor-purple {
+	border-color: purple;
+}
+.bcolor-red {
+	border-color: red;
+}
+.bcolor-rosybrown {
+	border-color: rosybrown;
+}
+.bcolor-royalblue {
+	border-color: royalblue;
+}
+.bcolor-saddlebrown {
+	border-color: saddlebrown;
+}
+.bcolor-salmon {
+	border-color: salmon;
+}
+.bcolor-sandybrown {
+	border-color: sandybrown;
+}
+.bcolor-seagreen {
+	border-color: seagreen;
+}
+.bcolor-seashell {
+	border-color: seashell;
+}
+.bcolor-sienna {
+	border-color: sienna;
+}
+.bcolor-silver {
+	border-color: silver;
+}
+.bcolor-skyblue {
+	border-color: skyblue;
+}
+.bcolor-slateblue {
+	border-color: slateblue;
+}
+.bcolor-slategray {
+	border-color: slategray;
+}
+.bcolor-slategrey {
+	border-color: slategrey;
+}
+.bcolor-snow {
+	border-color: snow;
+}
+.bcolor-springgreen {
+	border-color: springgreen;
+}
+.bcolor-steelblue {
+	border-color: steelblue;
+}
+.bcolor-tan {
+	border-color: tan;
+}
+.bcolor-teal {
+	border-color: teal;
+}
+.bcolor-thistle {
+	border-color: thistle;
+}
+.bcolor-tomato {
+	border-color: tomato;
+}
+.bcolor-turquoise {
+	border-color: turquoise;
+}
+.bcolor-violet {
+	border-color: violet;
+}
+.bcolor-wheat {
+	border-color: wheat;
+}
+.bcolor-white {
+	border-color: white;
+}
+.bcolor-whitesmoke {
+	border-color: whitesmoke;
+}
+.bcolor-yellow {
+	border-color: yellow;
+}
+.bcolor-yellowgreen {
+	border-color: yellowgreen;
+}
+
+.bright-none {
+	border-right: none;
+}
+.bleft-none {
+	border-left: none;
+}
+.btop-none {
+	border-top: none;
+}
+.bbottom-none {
+	border-bottom: none;
+}
