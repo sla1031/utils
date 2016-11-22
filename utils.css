@@ -1,0 +1,726 @@
+/* Margins */
+.mb-10 { margin-bottom: 10px; }
+
+.mb-20 { margin-bottom: 20px; }
+
+.mb-40 { margin-bottom: 40px; }
+
+.mb-60 { margin-bottom: 60px; }
+
+.mb-80 { margin-bottom: 80px; }
+
+.mb-100 { margin-bottom: 100px; }
+
+.mt-10 { margin-top: 10px; }
+
+.mt-20 { margin-top: 20px; }
+
+.mt-40 { margin-top: 40px; }
+
+.mt-60 { margin-top: 60px; }
+
+.mt-80 { margin-top: 80px; }
+
+.mt-100 { margin-top: 100px; }
+
+.mr-10 { margin-right: 10px; }
+
+.mr-20 { margin-right: 20px; }
+
+.mr-40 { margin-right: 40px; }
+
+.mr-60 { margin-right: 60px; }
+
+.mr-80 { margin-right: 80px; }
+
+.mr-100 { margin-right: 100px; }
+
+.ml-10 { margin-left: 10px; }
+
+.ml-20 { margin-left: 20px; }
+
+.ml-40 { margin-left: 40px; }
+
+.ml-60 { margin-left: 60px; }
+
+.ml-80 { margin-left: 80px; }
+
+.ml-100 { margin-left: 100px; }
+
+/* Paddings */
+.pb-10 { padding-bottom: 10px; }
+
+.pb-20 { padding-bottom: 20px; }
+
+.pb-40 { padding-bottom: 40px; }
+
+.pb-60 { padding-bottom: 60px; }
+
+.pb-80 { padding-bottom: 80px; }
+
+.pb-100 { padding-bottom: 100px; }
+
+.pt-10 { padding-top: 10px; }
+
+.pt-20 { padding-top: 20px; }
+
+.pt-40 { padding-top: 40px; }
+
+.pt-60 { padding-top: 60px; }
+
+.pt-80 { padding-top: 80px; }
+
+.pt-100 { padding-top: 100px; }
+
+.pr-10 { padding-right: 10px; }
+
+.pr-20 { padding-right: 20px; }
+
+.pr-40 { padding-right: 40px; }
+
+.pr-60 { padding-right: 60px; }
+
+.pr-80 { padding-right: 80px; }
+
+.pr-100 { padding-right: 100px; }
+
+.pl-10 { padding-left: 10px; }
+
+.pl-20 { padding-left: 20px; }
+
+.pl-40 { padding-left: 40px; }
+
+.pl-60 { padding-left: 60px; }
+
+.pl-80 { padding-left: 80px; }
+
+.pl-100 { padding-left: 100px; }
+
+/* Background Colors */
+.background-aliceblue { background-color: aliceblue; }
+
+.background-antiquewhite { background-color: antiquewhite; }
+
+.background-aqua { background-color: aqua; }
+
+.background-aquamarine { background-color: aquamarine; }
+
+.background-azure { background-color: azure; }
+
+.background-beige { background-color: beige; }
+
+.background-bisque { background-color: bisque; }
+
+.background-black { background-color: black; }
+
+.background-blanchedalmond { background-color: blanchedalmond; }
+
+.background-blue { background-color: blue; }
+
+.background-blueviolet { background-color: blueviolet; }
+
+.background-brown { background-color: brown; }
+
+.background-burlywood { background-color: burlywood; }
+
+.background-cadetblue { background-color: cadetblue; }
+
+.background-chartreuse { background-color: chartreuse; }
+
+.background-chocolate { background-color: chocolate; }
+
+.background-coral { background-color: coral; }
+
+.background-cornflowerblue { background-color: cornflowerblue; }
+
+.background-cornsilk { background-color: cornsilk; }
+
+.background-crimson { background-color: crimson; }
+
+.background-cyan { background-color: cyan; }
+
+.background-darkblue { background-color: darkblue; }
+
+.background-darkcyan { background-color: darkcyan; }
+
+.background-darkgoldenrod { background-color: darkgoldenrod; }
+
+.background-darkgray { background-color: darkgray; }
+
+.background-darkgrey { background-color: darkgrey; }
+
+.background-darkgreen { background-color: darkgreen; }
+
+.background-darkkhaki { background-color: darkkhaki; }
+
+.background-darkmagenta { background-color: darkmagenta; }
+
+.background-darkolivegreen { background-color: darkolivegreen; }
+
+.background-darkorange { background-color: darkorange; }
+
+.background-darkorchid { background-color: darkorchid; }
+
+.background-darkred { background-color: darkred; }
+
+.background-darksalmon { background-color: darksalmon; }
+
+.background-darkseagreen { background-color: darkseagreen; }
+
+.background-darkslateblue { background-color: darkslateblue; }
+
+.background-darkslategray { background-color: darkslategray; }
+
+.background-darkslategrey { background-color: darkslategrey; }
+
+.background-darkturquoise { background-color: darkturquoise; }
+
+.background-darkviolet { background-color: darkviolet; }
+
+.background-deeppink { background-color: deeppink; }
+
+.background-deepskyblue { background-color: deepskyblue; }
+
+.background-dimgray { background-color: dimgray; }
+
+.background-dimgrey { background-color: dimgrey; }
+
+.background-dodgerblue { background-color: dodgerblue; }
+
+.background-firebrick { background-color: firebrick; }
+
+.background-floralwhite { background-color: floralwhite; }
+
+.background-forestgreen { background-color: forestgreen; }
+
+.background-fuchsia { background-color: fuchsia; }
+
+.background-gainsboro { background-color: gainsboro; }
+
+.background-ghostwhite { background-color: ghostwhite; }
+
+.background-gold { background-color: gold; }
+
+.background-goldenrod { background-color: goldenrod; }
+
+.background-gray { background-color: gray; }
+
+.background-grey { background-color: grey; }
+
+.background-green { background-color: green; }
+
+.background-greenyellow { background-color: greenyellow; }
+
+.background-honeydew { background-color: honeydew; }
+
+.background-hotpink { background-color: hotpink; }
+
+.background-indianred { background-color: indianred; }
+
+.background-indigo { background-color: indigo; }
+
+.background-ivory { background-color: ivory; }
+
+.background-khaki { background-color: khaki; }
+
+.background-lavender { background-color: lavender; }
+
+.background-lavenderblush { background-color: lavenderblush; }
+
+.background-lawngreen { background-color: lawngreen; }
+
+.background-lemonchiffon { background-color: lemonchiffon; }
+
+.background-lightblue { background-color: lightblue; }
+
+.background-lightcoral { background-color: lightcoral; }
+
+.background-lightcyan { background-color: lightcyan; }
+
+.background-lightgoldenrodyellow { background-color: lightgoldenrodyellow; }
+
+.background-lightgray { background-color: lightgray; }
+
+.background-lightgrey { background-color: lightgrey; }
+
+.background-lightgreen { background-color: lightgreen; }
+
+.background-lightpink { background-color: lightpink; }
+
+.background-lightsalmon { background-color: lightsalmon; }
+
+.background-lightseagreen { background-color: lightseagreen; }
+
+.background-lightskyblue { background-color: lightskyblue; }
+
+.background-lightslategray { background-color: lightslategray; }
+
+.background-lightslategrey { background-color: lightslategrey; }
+
+.background-lightsteelblue { background-color: lightsteelblue; }
+
+.background-lightyellow { background-color: lightyellow; }
+
+.background-lime { background-color: lime; }
+
+.background-limegreen { background-color: limegreen; }
+
+.background-linen { background-color: linen; }
+
+.background-magenta { background-color: magenta; }
+
+.background-maroon { background-color: maroon; }
+
+.background-mediumaquamarine { background-color: mediumaquamarine; }
+
+.background-mediumblue { background-color: mediumblue; }
+
+.background-mediumorchid { background-color: mediumorchid; }
+
+.background-mediumpurple { background-color: mediumpurple; }
+
+.background-mediumseagreen { background-color: mediumseagreen; }
+
+.background-mediumslateblue { background-color: mediumslateblue; }
+
+.background-mediumspringgreen { background-color: mediumspringgreen; }
+
+.background-mediumturquoise { background-color: mediumturquoise; }
+
+.background-mediumvioletred { background-color: mediumvioletred; }
+
+.background-midnightblue { background-color: midnightblue; }
+
+.background-mintcream { background-color: mintcream; }
+
+.background-mistyrose { background-color: mistyrose; }
+
+.background-moccasin { background-color: moccasin; }
+
+.background-navajowhite { background-color: navajowhite; }
+
+.background-navy { background-color: navy; }
+
+.background-oldlace { background-color: oldlace; }
+
+.background-olive { background-color: olive; }
+
+.background-olivedrab { background-color: olivedrab; }
+
+.background-orange { background-color: orange; }
+
+.background-orangered { background-color: orangered; }
+
+.background-orchid { background-color: orchid; }
+
+.background-palegoldenrod { background-color: palegoldenrod; }
+
+.background-palegreen { background-color: palegreen; }
+
+.background-paleturquoise { background-color: paleturquoise; }
+
+.background-palevioletred { background-color: palevioletred; }
+
+.background-papayawhip { background-color: papayawhip; }
+
+.background-peachpuff { background-color: peachpuff; }
+
+.background-peru { background-color: peru; }
+
+.background-pink { background-color: pink; }
+
+.background-plum { background-color: plum; }
+
+.background-powderblue { background-color: powderblue; }
+
+.background-purple { background-color: purple; }
+
+.background-red { background-color: red; }
+
+.background-rosybrown { background-color: rosybrown; }
+
+.background-royalblue { background-color: royalblue; }
+
+.background-saddlebrown { background-color: saddlebrown; }
+
+.background-salmon { background-color: salmon; }
+
+.background-sandybrown { background-color: sandybrown; }
+
+.background-seagreen { background-color: seagreen; }
+
+.background-seashell { background-color: seashell; }
+
+.background-sienna { background-color: sienna; }
+
+.background-silver { background-color: silver; }
+
+.background-skyblue { background-color: skyblue; }
+
+.background-slateblue { background-color: slateblue; }
+
+.background-slategray { background-color: slategray; }
+
+.background-slategrey { background-color: slategrey; }
+
+.background-snow { background-color: snow; }
+
+.background-springgreen { background-color: springgreen; }
+
+.background-steelblue { background-color: steelblue; }
+
+.background-tan { background-color: tan; }
+
+.background-teal { background-color: teal; }
+
+.background-thistle { background-color: thistle; }
+
+.background-tomato { background-color: tomato; }
+
+.background-turquoise { background-color: turquoise; }
+
+.background-violet { background-color: violet; }
+
+.background-wheat { background-color: wheat; }
+
+.background-white { background-color: white; }
+
+.background-whitesmoke { background-color: whitesmoke; }
+
+.background-yellow { background-color: yellow; }
+
+.background-yellowgreen { background-color: yellowgreen; }
+
+/* font colors */
+.font-aliceblue { color: aliceblue; }
+
+.font-antiquewhite { color: antiquewhite; }
+
+.font-aqua { color: aqua; }
+
+.font-aquamarine { color: aquamarine; }
+
+.font-azure { color: azure; }
+
+.font-beige { color: beige; }
+
+.font-bisque { color: bisque; }
+
+.font-black { color: black; }
+
+.font-blanchedalmond { color: blanchedalmond; }
+
+.font-blue { color: blue; }
+
+.font-blueviolet { color: blueviolet; }
+
+.font-brown { color: brown; }
+
+.font-burlywood { color: burlywood; }
+
+.font-cadetblue { color: cadetblue; }
+
+.font-chartreuse { color: chartreuse; }
+
+.font-chocolate { color: chocolate; }
+
+.font-coral { color: coral; }
+
+.font-cornflowerblue { color: cornflowerblue; }
+
+.font-cornsilk { color: cornsilk; }
+
+.font-crimson { color: crimson; }
+
+.font-cyan { color: cyan; }
+
+.font-darkblue { color: darkblue; }
+
+.font-darkcyan { color: darkcyan; }
+
+.font-darkgoldenrod { color: darkgoldenrod; }
+
+.font-darkgray { color: darkgray; }
+
+.font-darkgrey { color: darkgrey; }
+
+.font-darkgreen { color: darkgreen; }
+
+.font-darkkhaki { color: darkkhaki; }
+
+.font-darkmagenta { color: darkmagenta; }
+
+.font-darkolivegreen { color: darkolivegreen; }
+
+.font-darkorange { color: darkorange; }
+
+.font-darkorchid { color: darkorchid; }
+
+.font-darkred { color: darkred; }
+
+.font-darksalmon { color: darksalmon; }
+
+.font-darkseagreen { color: darkseagreen; }
+
+.font-darkslateblue { color: darkslateblue; }
+
+.font-darkslategray { color: darkslategray; }
+
+.font-darkslategrey { color: darkslategrey; }
+
+.font-darkturquoise { color: darkturquoise; }
+
+.font-darkviolet { color: darkviolet; }
+
+.font-deeppink { color: deeppink; }
+
+.font-deepskyblue { color: deepskyblue; }
+
+.font-dimgray { color: dimgray; }
+
+.font-dimgrey { color: dimgrey; }
+
+.font-dodgerblue { color: dodgerblue; }
+
+.font-firebrick { color: firebrick; }
+
+.font-floralwhite { color: floralwhite; }
+
+.font-forestgreen { color: forestgreen; }
+
+.font-fuchsia { color: fuchsia; }
+
+.font-gainsboro { color: gainsboro; }
+
+.font-ghostwhite { color: ghostwhite; }
+
+.font-gold { color: gold; }
+
+.font-goldenrod { color: goldenrod; }
+
+.font-gray { color: gray; }
+
+.font-grey { color: grey; }
+
+.font-green { color: green; }
+
+.font-greenyellow { color: greenyellow; }
+
+.font-honeydew { color: honeydew; }
+
+.font-hotpink { color: hotpink; }
+
+.font-indianred { color: indianred; }
+
+.font-indigo { color: indigo; }
+
+.font-ivory { color: ivory; }
+
+.font-khaki { color: khaki; }
+
+.font-lavender { color: lavender; }
+
+.font-lavenderblush { color: lavenderblush; }
+
+.font-lawngreen { color: lawngreen; }
+
+.font-lemonchiffon { color: lemonchiffon; }
+
+.font-lightblue { color: lightblue; }
+
+.font-lightcoral { color: lightcoral; }
+
+.font-lightcyan { color: lightcyan; }
+
+.font-lightgoldenrodyellow { color: lightgoldenrodyellow; }
+
+.font-lightgray { color: lightgray; }
+
+.font-lightgrey { color: lightgrey; }
+
+.font-lightgreen { color: lightgreen; }
+
+.font-lightpink { color: lightpink; }
+
+.font-lightsalmon { color: lightsalmon; }
+
+.font-lightseagreen { color: lightseagreen; }
+
+.font-lightskyblue { color: lightskyblue; }
+
+.font-lightslategray { color: lightslategray; }
+
+.font-lightslategrey { color: lightslategrey; }
+
+.font-lightsteelblue { color: lightsteelblue; }
+
+.font-lightyellow { color: lightyellow; }
+
+.font-lime { color: lime; }
+
+.font-limegreen { color: limegreen; }
+
+.font-linen { color: linen; }
+
+.font-magenta { color: magenta; }
+
+.font-maroon { color: maroon; }
+
+.font-mediumaquamarine { color: mediumaquamarine; }
+
+.font-mediumblue { color: mediumblue; }
+
+.font-mediumorchid { color: mediumorchid; }
+
+.font-mediumpurple { color: mediumpurple; }
+
+.font-mediumseagreen { color: mediumseagreen; }
+
+.font-mediumslateblue { color: mediumslateblue; }
+
+.font-mediumspringgreen { color: mediumspringgreen; }
+
+.font-mediumturquoise { color: mediumturquoise; }
+
+.font-mediumvioletred { color: mediumvioletred; }
+
+.font-midnightblue { color: midnightblue; }
+
+.font-mintcream { color: mintcream; }
+
+.font-mistyrose { color: mistyrose; }
+
+.font-moccasin { color: moccasin; }
+
+.font-navajowhite { color: navajowhite; }
+
+.font-navy { color: navy; }
+
+.font-oldlace { color: oldlace; }
+
+.font-olive { color: olive; }
+
+.font-olivedrab { color: olivedrab; }
+
+.font-orange { color: orange; }
+
+.font-orangered { color: orangered; }
+
+.font-orchid { color: orchid; }
+
+.font-palegoldenrod { color: palegoldenrod; }
+
+.font-palegreen { color: palegreen; }
+
+.font-paleturquoise { color: paleturquoise; }
+
+.font-palevioletred { color: palevioletred; }
+
+.font-papayawhip { color: papayawhip; }
+
+.font-peachpuff { color: peachpuff; }
+
+.font-peru { color: peru; }
+
+.font-pink { color: pink; }
+
+.font-plum { color: plum; }
+
+.font-powderblue { color: powderblue; }
+
+.font-purple { color: purple; }
+
+.font-red { color: red; }
+
+.font-rosybrown { color: rosybrown; }
+
+.font-royalblue { color: royalblue; }
+
+.font-saddlebrown { color: saddlebrown; }
+
+.font-salmon { color: salmon; }
+
+.font-sandybrown { color: sandybrown; }
+
+.font-seagreen { color: seagreen; }
+
+.font-seashell { color: seashell; }
+
+.font-sienna { color: sienna; }
+
+.font-silver { color: silver; }
+
+.font-skyblue { color: skyblue; }
+
+.font-slateblue { color: slateblue; }
+
+.font-slategray { color: slategray; }
+
+.font-slategrey { color: slategrey; }
+
+.font-snow { color: snow; }
+
+.font-springgreen { color: springgreen; }
+
+.font-steelblue { color: steelblue; }
+
+.font-tan { color: tan; }
+
+.font-teal { color: teal; }
+
+.font-thistle { color: thistle; }
+
+.font-tomato { color: tomato; }
+
+.font-turquoise { color: turquoise; }
+
+.font-violet { color: violet; }
+
+.font-wheat { color: wheat; }
+
+.font-white { color: white; }
+
+.font-whitesmoke { color: whitesmoke; }
+
+.font-yellow { color: yellow; }
+
+.font-yellowgreen { color: yellowgreen; }
+
+/* font sizes */
+.fs-xsmall { font-size: x-small; }
+
+.fs-small { font-size: small; }
+
+.fs-medium { font-size: medium; }
+
+.fs-large { font-size: large; }
+
+.fs-xlarge { font-size: x-large; }
+
+.fs-12 { font-size: 12px; }
+
+.fs-14 { font-size: 14px; }
+
+.fs-16 { font-size: 16px; }
+
+.fs-18 { font-size: 18px; }
+
+.fs-20 { font-size: 20px; }
+
+.fs-22 { font-size: 22px; }
+
+.fs-24 { font-size: 24px; }
+
+.fs-26 { font-size: 26px; }
+
+.fs-28 { font-size: 28px; }
+
+.fs-30 { font-size: 30px; }
+
+.fs-32 { font-size: 32px; }
+
+.fs-34 { font-size: 34px; }
+
+.fs-36 { font-size: 36px; }
+
+/*# sourceMappingURL=utils.css.map */
